@@ -8,6 +8,7 @@
 | XIAOMI_TOUCH | ENABLE_HTPR | Enable HighTouchPollingRate feature | true |
 | XIAOMI_TOUCH | ENABLE_KD | Enable KeyDisabler feature | false |
 | XIAOMI_TOUCH | ENABLE_KS | Enable KeySwapper feature | false |
+| XIAOMI_BIOMETRICS_FINGERPRINT | USE_NEW_IMPL | Use new fingerprint implementation (Android 14+) | false |
 | XIAOMI_TOUCH | HIGH_TOUCH_POLLING_PATH | HighTouchPollingRate feature control path | |
 | XIAOMI_TOUCH | KEY_DISABLER_CONTROL_PATH | KeyDisabler feature control path | |
 | XIAOMI_TOUCH | KEY_SWAPPER_CONTROL_PATH | KeySwapper feature control path | |
